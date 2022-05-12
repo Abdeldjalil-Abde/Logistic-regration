@@ -3,6 +3,8 @@ import sys
 import csv
 import numpy as np
 
+# just testing the git graph
+
 ####################### import data ####################### 
 def get_data(location, data_limit=-1):
     if location == "":
